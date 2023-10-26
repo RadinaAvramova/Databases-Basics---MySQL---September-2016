@@ -1,18 +1,16 @@
 # Databases Basics MySQL September 2016
 
-Базите данни са стандартният начин за използване на динамична информация в съвременните приложения, правейки ги неизменна част от почти всяко едно приложение. Курсът по основи на базите данни ми помогна да се запозная с една от най-широко използваните системи за управление на бази данни (DBMS - Database management system), при разработката на съвременни приложения - MySQL. Придобих умения за работа с релационни бази данни, като и акцентирах върху основни функционалности като работа с таблици, групиращи функции, трансакции, процедури и други. Този курс положи основите на работата с бази данни, правейки по-лесно използването им в реални приложения, както и тяхното разбиране.
+Databases are the standard way to use dynamic information in modern applications, making them an integral part of almost every application. The Database Fundamentals course will introduce you to one of the most widely used database management systems (DBMS) in modern application development - MySQL. You will gain skills in working with relational databases, and focus on basic functionality such as working with tables, grouping functions, transactions, procedures, and more. This course lays the foundation of working with databases, making it easier to use them in real-world applications as well as understand them.
 
-Умения, които ще придобих : 
+Acquired skills :
 
--Фундаментални знания за бази данни
+  - Fundamental knowledge of databases
 
--Създаване на базови Back-End архитектури
+  - Creating basic back-end architectures
 
--Управление на релации в DB
+  - DB relational management
 
--Управление на трансакции и разбиране на ACID модела
-
-Преподаватели : Божидар Гевечанов и Теодор Димитров
+  - Managing transactions and understanding the ACID model
 
 
 
